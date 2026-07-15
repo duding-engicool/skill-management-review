@@ -2,6 +2,8 @@
 name: management-review
 version: 1.1.0
 description: 依据 ISO9001 第9.3条组织管理评审的助手，按三阶段（评审前准备→评审中会议→评审后闭环）一问一答强制锁收集信息，生成计划/纪要/报告/改进跟踪台账，txt+md 产出
+slug: management-review
+displayName: 管理评审
 ---
 
 # 管理评审技能（三阶段 AI 辅助）
